@@ -14,7 +14,7 @@ Sistema de chat interactivo utilizando la API de Google Gemini. Permite mantener
 1. Clona el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/API-CHAT-GEMINI.git
+git clone https://github.com/hk4u-dxv/API-CHAT-GEMINI.git
 cd API-CHAT-GEMINI
 ```
 
@@ -41,7 +41,7 @@ API-CHAT-GEMINI/
 │ │ └── gemini-logo.svg
 │ └── js/
 │   ├── modules/
-│   │ └── ChatManager.js     # Gestión del chat
+│   │ └── ChatManager.js    # Gestión del chat
 │   └── app.js              # Punto de entrada JS
 ├── config/
 │ └── config.php            # Configuración general
@@ -52,5 +52,5 @@ API-CHAT-GEMINI/
 ├── .env                    # Variables de entorno
 ├── README.md               # Documentación
 ├── obtenerDatosChat.php    # Endpoint para el chat
-└── index.php              # Punto de entrada
+└── index.php               # Punto de entrada
 ```
