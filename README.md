@@ -8,8 +8,6 @@ Sistema de chat interactivo utilizando la API de Google Gemini. Permite mantener
 - Historial de conversaciones
 - Interfaz responsive y amigable
 - Manejo de errores y estados de carga
-- Soporte para diferentes tipos de mensajes
-- Almacenamiento de historial de chat
 
 ## 🚀 Instalación
 
